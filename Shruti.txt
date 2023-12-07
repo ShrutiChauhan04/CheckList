@@ -19,3 +19,4 @@ While verifying; it should be domain/ company level and not the person’s level
 Running campaign - CTA to view analytics
 
 Report - to see campaign comparison TA wise and across organisation
+changes 
