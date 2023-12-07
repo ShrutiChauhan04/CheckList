@@ -1,0 +1,21 @@
+add target audience - more intuitive with experiment & confirmed meaning
+Value prop- just one place
+Outreach campaign - 
+Manually validate prospect data by visiting websites (current way)
+Prospect level quality filter via AI generated summary 
+
+
+Daywise(periodic) breakup of prospect level data (Click rate, connection request)
+Linkedin message - How many people sent message, how many replied
+
+inmail message-subject, separate signature (should be added at time on campaign setup)
+Campaign - if connection = yes, inmail message series
+Connection = yes/ no , email should go either way
+
+Tooltip for summary view is too painstaking
+
+While verifying; it should be domain/ company level and not the person’s level
+
+Running campaign - CTA to view analytics
+
+Report - to see campaign comparison TA wise and across organisation
